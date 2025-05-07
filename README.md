@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 | Project No. (JMOI)  | Project No. (RM) | Content   | Status   |
 |:------:|:------:|:------:|:------:|
+| JMOI_2505C |  [JMOI_2505C](https://github.com/Yunqing-Jia/JMOI_2505C) | LaTeX Selective Encryption Package | [![JMOI_2505C](https://img.shields.io/badge/Status-Online-00ff00.svg)](https://github.com/Yunqing-Jia/JMOI_2505C)|
 | JMOI_2505A |  [JMOT_2505](https://yunqing-jia.github.io/JTRC/more/transmap/) | Personal Transportation Map | [![JMOI_2505A](https://img.shields.io/badge/Status-Online-00ff00.svg)](https://yunqing-jia.github.io/JTRC/more/transmap/)|
 | JMOI_2504D  | JMOI_2504D | ALS  | ![Static Badge](https://img.shields.io/badge/Status-Launch-3580bb)   |
 | JMOI_2504C  | JMFC_2504 | SLM  | ![Static Badge](https://img.shields.io/badge/Status-Launch-3580bb)   |
